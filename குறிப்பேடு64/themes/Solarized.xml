@@ -718,6 +718,8 @@ Installation:
             <WordsStyle name="STRINGRAW" styleID="20" fgColor="2AA198" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DOUBLESTRING" styleID="48" fgColor="2AA198" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SINGLESTRING" styleID="49" fgColor="2AA198" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="TEMPLATE LIT. (CLIENT)" styleID="53" fgColor="2AA198" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="TEMPLATE LIT. (SERVER)" styleID="68" fgColor="2AA198" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SYMBOLS" styleID="50" fgColor="839496" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRINGEOL" styleID="51" fgColor="DC322F" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="52" fgColor="268BD2" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
@@ -1434,7 +1436,6 @@ Installation:
         <LexerType name="verilog" desc="Verilog" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="839496" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="B58900" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="TAGNAME" styleID="2" fgColor="CB4B16" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="859900" bgColor="002B36" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
             <WordsStyle name="KEYWORD" styleID="7" fgColor="6C71C4" bgColor="002B36" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="93A1A1" bgColor="002B36" fontName="" fontStyle="0" fontSize="" />

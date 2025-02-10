@@ -1,5 +1,10 @@
 
-config.xml
-குறிப்பேடு++32/localization/*.xml
-குறிப்பேடு++கை64/localization/*.xml
+*/config.xml
+*/localization/*.xml
 *.bak
+*/session.xml
+*/license.txt
+*/readme.txt
+*/config.xml
+*/nppLogNulContentCorruptionIssue.log
+*/backup

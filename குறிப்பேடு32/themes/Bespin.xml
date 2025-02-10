@@ -304,6 +304,8 @@ Credits:
             <WordsStyle name="STRINGRAW" styleID="20" fgColor="00FF40" bgColor="2A211C" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DOUBLESTRING" styleID="48" fgColor="00FF40" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="SINGLESTRING" styleID="49" fgColor="80FF00" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="TEMPLATE LIT. (CLIENT)" styleID="53" fgColor="00FF40" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="TEMPLATE LIT. (SERVER)" styleID="68" fgColor="00FF40" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="SYMBOLS" styleID="50" fgColor="E5C138" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="STRINGEOL" styleID="51" fgColor="55E439" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="REGEX" styleID="52" fgColor="FFB454" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
@@ -851,7 +853,6 @@ Credits:
         <LexerType name="verilog" desc="Verilog" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="F8F8F8" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="EB939A" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="TAGNAME" styleID="2" fgColor="EFE900" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="F6F080" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
             <WordsStyle name="KEYWORD" styleID="7" fgColor="FFAA00" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" keywordClass="type1" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="FFAA00" bgColor="2A211C" fontName="" fontStyle="0" fontSize="10" />
